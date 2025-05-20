@@ -11,6 +11,7 @@ The following will be required for this assignment:
 * Evaluation, did you achieve all goals set out in analysis, how could you expand the work etc
 Have a look at CodeSpaces as an online editor for coding. Otherwise use intellij or other preferred editor
 Use markdown for your text documents i.e analysis and design
+
 The Dijkstra algorithm can be broadly described as follows:
 * work from left to right, ignoring left side parenthesis
 * push operands onto operands stack
